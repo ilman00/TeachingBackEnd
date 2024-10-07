@@ -1,3 +1,6 @@
 I am showing my student how to use github
 
 I changed This file for testing github 
+
+
+Add .gitignore file
